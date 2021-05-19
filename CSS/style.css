@@ -9,22 +9,39 @@ style.css
 	padding: 1%;
 	text-align: center;
 }
-#nav{
+nav{
 	width: 73%;
 	padding: 1%;
 }
-#ul{
+ul{
 	width: 50%
 	margin-left:auto;
 }
 .heroImg{
 	height: 600px;
 	padding: 25px;
+	color: white;
 }
 .content{
 	width: 500px;
 	margin: 0 auto;
 }
-#footer{
-	background-color: #373738;
+footer{
+	background-color: #225459;
+
+}
+ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin:20px;
+	background-color: #2C5E69;
+	padding: 10px 20px;
+}
+header{
+	background-color: #225459;
+}
+body{
+	background-color: black;}
+button{
+	align-content: center;
 }
